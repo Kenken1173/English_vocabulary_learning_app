@@ -24,8 +24,8 @@
 - [x] コマンド：`npm create vite@latest . -- --template react`
 
 ### ③ Tailwind CSS の導入
-- [ ] Tailwind CSS をインストール・設定
-- [ ] 動作確認（簡単なスタイルが当たるか）
+- [x] Tailwind CSS をインストール・設定
+- [x] 動作確認（簡単なスタイルが当たるか）
 
 ### ④ Supabase プロジェクトの作成
 - [ ] Supabase アカウント作成・新規プロジェクト作成
