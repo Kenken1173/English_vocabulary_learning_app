@@ -16,12 +16,12 @@
 ## Phase 0.5：環境構築 タスク詳細
 
 ### ① Node.js / npm の確認
-- [ ] Node.js がインストールされているか確認（推奨：v20以上）
-- [ ] バージョン確認コマンド：`node -v` / `npm -v`
+- [x] Node.js がインストールされているか確認（推奨：v20以上）
+- [x] バージョン確認コマンド：`node -v` / `npm -v`
 
 ### ② Reactプロジェクトの作成
-- [ ] Vite + React でプロジェクトを作成
-- [ ] コマンド：`npm create vite@latest . -- --template react`
+- [x] Vite + React でプロジェクトを作成
+- [x] コマンド：`npm create vite@latest . -- --template react`
 
 ### ③ Tailwind CSS の導入
 - [ ] Tailwind CSS をインストール・設定
