@@ -28,8 +28,9 @@
 - [x] 動作確認（簡単なスタイルが当たるか）
 
 ### ④ Supabase プロジェクトの作成
-- [ ] Supabase アカウント作成・新規プロジェクト作成
-- [ ] Supabase クライアントライブラリをインストール：`npm install @supabase/supabase-js`
+- [x] Supabase アカウント作成・新規プロジェクト作成
+- english_vocaburary プロジェクトを新規作成
+- [x] Supabase クライアントライブラリをインストール：`npm install @supabase/supabase-js`
 - [ ] 環境変数（`.env`）に接続情報を設定
 
 ### ⑤ PWA 設定
